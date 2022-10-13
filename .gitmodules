@@ -1,0 +1,6 @@
+[submodule "docker/wireguard"]
+	path = docker/wireguard
+	url = https://github.com/linuxserver/docker-wireguard
+[submodule "docker/wireguard-ui"]
+	path = docker/wireguard-ui
+	url = https://github.com/ngoduykhanh/wireguard-ui.git
